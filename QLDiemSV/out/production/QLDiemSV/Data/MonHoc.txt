@@ -1,0 +1,4 @@
+entity.monHoc{maMonhoc=100', tenMonhoc='Toan', soDonViHocTrinh='3', loaiMon='Cơ sở ngành'}
+entity.monHoc{maMonhoc=101', tenMonhoc='Van', soDonViHocTrinh='3', loaiMon='Chuyên ngành'}
+entity.monHoc{maMonhoc=102', tenMonhoc='Anh', soDonViHocTrinh='5', loaiMon='Đại cương'}
+entity.monHoc{maMonhoc=103', tenMonhoc='Ly', soDonViHocTrinh='7', loaiMon='Chuyên ngành'}

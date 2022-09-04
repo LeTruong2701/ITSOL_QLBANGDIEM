@@ -1,0 +1,3 @@
+entity.SinhVien{maSV100', hoTen='Truong', diaChi='Khoai Chau', sdt='123123',Lop='123'}
+entity.SinhVien{maSV100', hoTen='Minh', diaChi='Ha Noi', sdt='343443',Lop='321'}
+entity.SinhVien{maSV100', hoTen='Duc', diaChi='Ha Nam', sdt='56656',Lop='56'}
